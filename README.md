@@ -1,3 +1,4 @@
 ## Description
 
-This repo shows a Log system implementation that uses the chain of responsability pattern and applies some principles exposed in the book
+This repo shows a Log system implementation and a tic tac toe game implementation.  
+These examples apply some of the principles exposed in the book.
