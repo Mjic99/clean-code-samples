@@ -1,12 +1,13 @@
 # Description
 
 This repo shows a Log system implementation and a tic tac toe game implementation.  
-These examples apply some of the principles exposed in the book.
+These examples apply some of the principles exposed in the Clean Code book.
 
 # Logger Typescript project
 
 ## Requirements
-- Node.js v14.16.1 or later 
+- Node.js v14.16.1 or later
+- NPM v8.13.2
 
 ## Setup
 1. Go to the folder
